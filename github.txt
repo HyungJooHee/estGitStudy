@@ -83,3 +83,15 @@
 
 스테이지에 파일 추가
 - git add(파일명)
+
+스테이지에 업로드된 파일확인
+got status
+
+git repository로 commit
+- git commit -m "커밋메세지"
+
+github 업로드 시도
+remote 설정
+
+처음 연결
+git remote add origin https://github.com/HyungJooHee/estGitStudy.git
